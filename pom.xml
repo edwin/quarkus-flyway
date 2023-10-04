@@ -66,7 +66,7 @@
         <dependency>
             <groupId>org.flywaydb</groupId>
             <artifactId>flyway-mysql</artifactId>
-    </dependency>
+        </dependency>
 
         <!-- JDBC driver dependencies -->
         <dependency>
